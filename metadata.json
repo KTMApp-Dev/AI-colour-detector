@@ -1,0 +1,7 @@
+{
+  "name": "AI Color Detector",
+  "description": "An intelligent application that uses your device's camera and the Gemini API to detect and announce the color of objects in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
